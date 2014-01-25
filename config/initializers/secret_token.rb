@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-LittleCorner::Application.config.secret_token = '3a6abcdfb562677c783f01aa7ee4cba0a9300d992c8ee200a8367a0d8659d00cd99c8eec7c270e4199cd52aff04753c0cd6ac7c6bd83c93bef0415e8ea521f2f'
+LittleCorner::Application.config.secret_token = 'e3ce97f4b78f420e1fe463c5dea0eee959051f63b7b8d647693c19f63a50cfdefeed3426f7709ee2e052d1da4061c6eeae9f8581e93deac6e5ba2495a01476d1'
