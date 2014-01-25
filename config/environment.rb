@@ -31,11 +31,11 @@ ENABLE_DELICIOUS             = false
 DELICIOUS_USER_NAME          = ''
 
 # Flickr Config
-ENABLE_FLICKR                = false
-FLICKR_API_KEY               = ''
-FLICKR_API_SECRET            = ''
-FLICKR_USER_ID               = ''
-FLICKR_USER_NAME             = ''
+ENABLE_FLICKR                = true
+FLICKR_API_KEY               = '20a625f9daeb1739f6083b63cbdfc1ea'
+FLICKR_API_SECRET            = '02e5c7838e2c67d4'
+FLICKR_USER_ID               = '83667378@N00'
+FLICKR_USER_NAME             = 'andymayer'
 
 # Foursquare Config
 ENABLE_FOURSQUARE            = false
